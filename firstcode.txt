@@ -1,2 +1,5 @@
 hello world!!!!!
 take input from the user
+
+
+submit dat to thedatabase
